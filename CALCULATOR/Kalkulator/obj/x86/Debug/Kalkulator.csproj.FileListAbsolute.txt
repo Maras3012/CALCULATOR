@@ -1,0 +1,8 @@
+C:\Users\Korisnik\Desktop\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Korisnik\Desktop\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Korisnik\Desktop\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.exe
+C:\Users\Korisnik\Desktop\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.pdb
+C:\Users\Korisnik\Desktop\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.Form1.resources
+C:\Users\Korisnik\Desktop\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.csprojResolveAssemblyReference.cache
